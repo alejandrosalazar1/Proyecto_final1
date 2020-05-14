@@ -27,6 +27,8 @@ def list_contacts():
   print("Listar contactos")
   print(contacts)
 
+#############
+
 #Llamar contacto
 def call_contact():
   print("Llamar contacto")
